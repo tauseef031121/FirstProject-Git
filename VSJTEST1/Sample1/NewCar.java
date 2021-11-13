@@ -1,3 +1,6 @@
+/*
+sample program
+*/
 class Car{
 
     String color1;
